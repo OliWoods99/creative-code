@@ -2,6 +2,9 @@
 
 A collection of some creative code projects from over the years
 
-- [audio-visuals](audio-visuals/README.md)
-- [boids](boids/README.md)
-- [flow-fields](flow-fields/README.md)
+- [Pages](https://oliwoods99.github.io/creative-code/)
+
+Project pages:
+- [audio-visuals page](https://oliwoods99.github.io/creative-code/audio-visuals/)
+- [boids page](https://oliwoods99.github.io/creative-code/boids/)
+- [flow-fields page](https://oliwoods99.github.io/creative-code/flow-fields/)
