@@ -14,4 +14,6 @@
 
 <img src="images/20220921_200117_4F3E9E8C-5793-4242-B761-C82BEC264E15.JPG" width="720" />
 
+[Run 1](images/20220921_184316_run1.MP4) · [Run 2](images/20220921_185529_run2.MP4) · [Run 3](images/20220921_190405_run3.MP4) · [Run 4](images/20220921_193309_run4.MP4) · [Run 5](images/20220921_193807_run5.MP4)
+
 A visualisation of flowfields made in p5 
