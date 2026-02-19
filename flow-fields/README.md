@@ -1,0 +1,17 @@
+# flow-fields
+
+<div style="width: 720px;">
+	<div style="display: flex; gap: 0; line-height: 0;">
+		<video autoplay muted playsinline loop src="images/20220921_184316_run1.MP4" style="width: 240px; height: 240px; object-fit: cover;"></video>
+		<video autoplay muted playsinline loop src="images/20220921_185529_run2.MP4" style="width: 240px; height: 240px; object-fit: cover;"></video>
+		<video autoplay muted playsinline loop src="images/20220921_190405_run3.MP4" style="width: 240px; height: 240px; object-fit: cover;"></video>
+	</div>
+	<div style="display: flex; gap: 0; line-height: 0;">
+		<video autoplay muted playsinline loop src="images/20220921_193309_run4.MP4" style="width: 360px; height: 360px; object-fit: cover;"></video>
+		<video autoplay muted playsinline loop src="images/20220921_193807_run5.MP4" style="width: 360px; height: 360px; object-fit: cover;"></video>
+	</div>
+</div>
+
+<img src="images/20220921_200117_4F3E9E8C-5793-4242-B761-C82BEC264E15.JPG" width="720" />
+
+A visualisation of flowfields made in p5 
